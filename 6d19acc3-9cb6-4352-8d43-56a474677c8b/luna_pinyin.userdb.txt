@@ -1,0 +1,93 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	83
+#@/user_id	6d19acc3-9cb6-4352-8d43-56a474677c8b
+an zhuang 	安裝	c=2 d=1.83705 t=83
+ba ba 	爸爸	c=1 d=0.960789 t=83
+bao 	包	c=0 d=0.0878095 t=83
+biao qing 	表情	c=0 d=0.0878095 t=83
+biao qing bao 	表情包	c=2 d=1.8385 t=83
+bing bu shi 	並不是	c=1 d=0.918512 t=83
+bu shu 	部署	c=1 d=0.701173 t=83
+cheng 	成	c=1 d=0.818731 t=83
+chong xin 	重新	c=2 d=1.39187 t=83
+ci dian 	詞典	c=2 d=1.59317 t=83
+ci ku 	詞庫	c=3 d=2.62602 t=83
+ci shi 	此時	c=1 d=0.904837 t=83
+da kai 	打開	c=1 d=0.752014 t=83
+dai ma 	代碼	c=1 d=0.782705 t=83
+de 	的	c=6 d=5.09786 t=83
+di zhi 	地址	c=0 d=0.0831104 t=83
+ding yi 	定義	c=1 d=0.869358 t=83
+dui ying 	對應	c=1 d=0.733447 t=83
+fang an 	方案	c=3 d=2.50671 t=83
+hao le 	好了	c=0 d=0.0900325 t=83
+hou zhui 	後綴	c=1 d=0.852144 t=83
+ji ke 	即可	c=3 d=2.61309 t=83
+jiu shi 	就是	c=1 d=0.900325 t=83
+ke yi 	可以	c=1 d=0.860708 t=83
+le 	了	c=1 d=0.951229 t=83
+li shi 	歷史	c=1 d=0.960789 t=83
+li si 	李斯	c=0 d=0.0960789 t=83
+lie biao 	列表	c=1 d=0.726149 t=83
+ma zi 	馬子	c=0 d=0.0965605 t=83
+ming 	名	c=2 d=1.73777 t=83
+ming cheng 	名稱	c=5 d=3.88402 t=83
+mo ren 	默認	c=1 d=0.97531 t=83
+na me 	那麼	c=1 d=0.913931 t=83
+nei rong 	內容	c=2 d=1.64863 t=83
+ni 	你	c=2 d=1.95123 t=83
+ni hao 	你好	c=2 d=1.61413 t=83
+pei zhi 	配置	c=4 d=3.69563 t=83
+pei zhi hao le 	配置好了	c=1 d=0.904837 t=83
+qi ta 	其他	c=1 d=0.873716 t=83
+ru 	如	c=1 d=0.690734 t=83
+ru xia 	如下	c=1 d=0.878095 t=83
+shang mian 	上面	c=2 d=1.66637 t=83
+shen 	神	c=1 d=0.970446 t=83
+shen me 	什麼	c=1 d=0.97531 t=83
+shi 	是	c=2 d=1.62155 t=83
+shi ji 	實際	c=1 d=0.882497 t=83
+shu ru 	輸入	c=2 d=1.73504 t=83
+shu ru fa 	輸入法	c=2 d=1.90937 t=83
+shuai 	帥	c=1 d=0.941765 t=83
+shuang pin 	雙拼	c=1 d=0.826959 t=83
+tian jia 	添加	c=1 d=0.946485 t=83
+tong bu 	同步	c=1 d=0.99005 t=83
+tong shang 	同上	c=1 d=0.88692 t=83
+wang 	網	c=0 d=0.0965605 t=83
+wang ma zi 	網馬子	c=1 d=0.970446 t=83
+wei 	爲	c=4 d=3.46217 t=83
+wei xiao 	微笑	c=2 d=1.83272 t=83
+wen jian 	文件	c=1 d=0.771052 t=83
+wen jian jia 	文件夾	c=1 d=0.759572 t=83
+wo 	我	c=1 d=0.946485 t=83
+wu suo wei 	無所謂	c=1 d=0.995012 t=83
+xia zai 	下載	c=1 d=0.822835 t=83
+xiang mu 	項目	c=0 d=0.0831104 t=83
+xiang mu di zhi 	項目地址	c=3 d=2.59324 t=83
+xiao lang hao 	小狼毫	c=1 d=0.995012 t=83
+xin jian 	新建	c=2 d=1.55791 t=83
+xiu gai 	修改	c=1 d=0.941765 t=83
+xuan ze 	選擇	c=1 d=0.852144 t=83
+yi ge 	一個	c=3 d=2.46102 t=83
+yi hang 	一行	c=0 d=0.0927743 t=83
+yi hang yi ge 	一行一個	c=1 d=0.932394 t=83
+yong hu 	用戶	c=1 d=0.755784 t=83
+yuan yin 	原因	c=1 d=0.980199 t=83
+zhang san 	張三	c=0 d=0.0960789 t=83
+zhang san li si 	張三李斯	c=1 d=0.965605 t=83
+zhao dao 	找到	c=2 d=1.44513 t=83
+zhe 	這	c=1 d=0.666977 t=83
+zhe li 	這裏	c=1 d=0.818731 t=83
+zhe shi 	這是	c=1 d=0.680451 t=83
+zhi ding 	制定	c=1 d=0.839457 t=83
+zhi ding 	指定	c=1 d=0.843665 t=83
+zhi neng 	智能	c=3 d=2.52366 t=83
+zhi xiang 	只想	c=1 d=0.88692 t=83
+zhi xiang 	指向	c=1 d=0.891366 t=83
+zhong 	中	c=1 d=0.718924 t=83
+zi dai 	自帶	c=1 d=0.980199 t=83
+zi ji 	自己	c=1 d=0.865022 t=83
